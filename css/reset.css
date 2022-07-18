@@ -3,11 +3,21 @@
     border: 0;
     padding: 0;
     list-style: none;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
 
 }
+
 :root{
     --fundo: #9e9e9e;
+    --fundo-content: #dfdfdf;
     --botão1: #fa3dcb;
     --botão2: #1100ff;
     --caixa: #dfdfdf;
+    --fonte: #000000;
+    --fonte-clara: #727272;
+    --fonte-ativa: #575151;
+    --checked-on: #444444;
+    --checked-off: #9b9b9b;
 }
