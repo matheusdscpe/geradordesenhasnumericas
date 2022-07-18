@@ -29,6 +29,16 @@ input[type="radio"]:checked{
     font-size: 5rem;
     margin: 1rem auto;
 }
+.bnt__gerar{
+    background-color: var(--botao1);
+}
+.bnt__gerar:hover{
+    background-color: var(--botao2);
+}
+.bnt__gerar:active{
+    background-color: var(--botao3);
+}
+
 @media screen and (max-width:505px){
     .box{
         width: 80%

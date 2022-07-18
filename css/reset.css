@@ -12,9 +12,10 @@
 :root{
     --fundo: #9e9e9e;
     --fundo-content: #dfdfdf;
-    --botão1: #fa3dcb;
-    --botão2: #1100ff;
-    --caixa: #dfdfdf;
+    --botao1: #969696;
+    --botao2: #7c7c7c;
+    --botao3: #696969;
+    --caixa: #949393;
     --fonte: #000000;
     --fonte-clara: #727272;
     --fonte-ativa: #575151;
