@@ -23,6 +23,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 1rem auto;
 }
 .bnt{
     font-size: 5rem;
